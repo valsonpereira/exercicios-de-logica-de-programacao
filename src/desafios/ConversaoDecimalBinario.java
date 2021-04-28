@@ -1,4 +1,4 @@
-/* Converter um inteiro informado menor que 32 para sua representação em binário */
+package desafios;/* Converter um inteiro informado menor que 32 para sua representação em binário */
 
 
 import java.io.IOException;

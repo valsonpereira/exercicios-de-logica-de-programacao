@@ -1,4 +1,4 @@
-/* Dado os três lados de um triângulo determinar o perímetro do mesmo.  */
+package desafios;/* Dado os três lados de um triângulo determinar o perímetro do mesmo.  */
 
 
 import java.util.Scanner;

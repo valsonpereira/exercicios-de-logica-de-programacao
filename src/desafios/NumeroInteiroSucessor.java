@@ -1,4 +1,4 @@
-/* Ler um número inteiro e exibir o seu sucessor */
+package desafios;/* Ler um número inteiro e exibir o seu sucessor */
 
 import java.util.Scanner;
 

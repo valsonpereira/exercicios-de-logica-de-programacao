@@ -1,4 +1,4 @@
-/* Solicitar a idade de uma pessoa em dias e informar na tela a idade em anos, meses e dias. */
+package desafios;/* Solicitar a idade de uma pessoa em dias e informar na tela a idade em anos, meses e dias. */
 
 
 import java.util.Scanner;

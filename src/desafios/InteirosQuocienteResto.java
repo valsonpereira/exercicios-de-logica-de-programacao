@@ -1,4 +1,4 @@
-/* Ler dois números inteiros e exibir o quociente e o resto da divisão inteira entre eles. */
+package desafios;/* Ler dois números inteiros e exibir o quociente e o resto da divisão inteira entre eles. */
 
 import java.util.Scanner;
 
